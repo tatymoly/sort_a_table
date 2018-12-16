@@ -1,0 +1,19 @@
+h1 {
+  color: lightblue;
+}
+table,
+th,
+td {
+  border: 1px solid lightcoral;
+  border-collapse: collapse;
+}
+
+th {
+  background: coral;
+}
+td {
+  min-width: 5vh;
+}
+#order {
+  cursor: pointer;
+}
